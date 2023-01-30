@@ -46,7 +46,6 @@ In this step, we will use the [Vector3](https://docs.unity3d.com/ScriptReference
 ### 📌 **Tasks**:
 
    - Use the [Vector3.Distance](https://docs.unity3d.com/ScriptReference/Vector3.Distance.html) method to determine the distance between the player and the current floor.
-   - Use the [transform.Translate](https://docs.unity3d.com/ScriptReference/Transform.Translate.html) method to move the floor towards the player.
    - Use the [Instantiate](https://docs.unity3d.com/ScriptReference/Object.Instantiate.html) function to generate new instances of the floor as the player moves in the scene.
    - Experiment with different values for the distance and speed of the floor generation.
    - Use the [Destroy](https://docs.unity3d.com/ScriptReference/Object.Destroy.html) function to remove the floor that is no longer needed.
