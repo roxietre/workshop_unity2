@@ -12,8 +12,8 @@ in this step wee are gonna create a [3d object](https://docs.unity3d.com/Manual/
 
 ### 📌 **Tasks**:
 
-   - crée un objet "floor" dans "prefabs"
-   - ajouter ses variable et un script "floorgéneration"
+   - déplacé l'objet "floor" dans "prefabs"
+   - créé un objet vide avec un script "floorgéneration"
 
 <details> 
 <summary>✔️ Result preview</summary>
