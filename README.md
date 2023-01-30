@@ -20,7 +20,7 @@ in this step wee are gonna create a [3d object](https://docs.unity3d.com/Manual/
 <img src="" alt="backround image"/>
 </details>
 
-## Step 2 -generatoin de floor:
+## Step 2 -generation de floor:
 
 ### 📑 **Description**:
 
@@ -56,7 +56,7 @@ In this step, we will use the [Vector3](https://docs.unity3d.com/ScriptReference
 <img src="" alt="backround image">
 </details>
 
-## Step 4 -randome creation
+## Step 4 -random creation
 
 ### 📑 **Description**:
 
